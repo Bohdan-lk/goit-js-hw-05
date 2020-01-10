@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c712bb9f-4a02-49ef-bf39-ecb4f6d1e23d" name="Default Changelist" comment="">
+    <list default="true" id="c712bb9f-4a02-49ef-bf39-ecb4f6d1e23d" name="Default Changelist" comment="fix-34">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/task-02.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task-05.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-05.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1578252424600" duration="4849000" />
       <workItem from="1578471039014" duration="4503000" />
       <workItem from="1578555559347" duration="3665000" />
-      <workItem from="1578639976361" duration="8216000" />
+      <workItem from="1578639976361" duration="13213000" />
     </task>
     <task id="LOCAL-00001" summary="fix-17">
       <created>1578256167677</created>
@@ -80,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578256280715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix-32">
+      <created>1578658364568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578658364568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix-33">
+      <created>1578658382823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578658382823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix-17" />
     <MESSAGE value="fix-18" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix-18" />
+    <MESSAGE value="fix-32" />
+    <MESSAGE value="fix-33" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix-33" />
   </component>
 </project>

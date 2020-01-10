@@ -52,7 +52,7 @@ class Car {
     }
 
     drive(hours) {
-        if (this.turnOn()) {
+        if (this.isOn) {
             this.distance += hours * this.speed;
         }
     }
