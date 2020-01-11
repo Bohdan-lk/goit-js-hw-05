@@ -30,6 +30,8 @@ class Car {
         this._price = newPrice;
     }
 
+
+
     turnOn() {
         this.isOn = true;
     }
