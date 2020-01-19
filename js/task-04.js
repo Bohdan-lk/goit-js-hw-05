@@ -11,15 +11,14 @@ class StringBuilder {
 
     append(string) {
         this._value = this._value + string;
-        return this._value;
     }
 
     prepend(string) {
-        this._value = string + (this._value);
-        return this._value;
+        this._value = string + this._value;
     }
     pad (string) {
-        this._value = string +(this._value) + string
+        this._value = string + this._value + string;
+        return this._value
     }
 }
 
