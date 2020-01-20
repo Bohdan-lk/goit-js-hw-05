@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c712bb9f-4a02-49ef-bf39-ecb4f6d1e23d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/task-01.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-01.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task-03.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task-04.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-04.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task-05.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-05.js" afterDir="false" />
@@ -69,7 +68,8 @@
       <workItem from="1578639976361" duration="13942000" />
       <workItem from="1578776841360" duration="3654000" />
       <workItem from="1578899455199" duration="3051000" />
-      <workItem from="1579438515456" duration="3363000" />
+      <workItem from="1579438515456" duration="4004000" />
+      <workItem from="1579502360990" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary="fix-17">
       <created>1578256167677</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578901300571</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fix-51">
+      <created>1579443265079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579443265079</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +178,7 @@
     <MESSAGE value="fix-43" />
     <MESSAGE value="fix-45" />
     <MESSAGE value="fix-46" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix-46" />
+    <MESSAGE value="fix-51" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix-51" />
   </component>
 </project>
